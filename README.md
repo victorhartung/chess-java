@@ -1,4 +1,4 @@
-## Especial thanks to Prof. Nelio Alves, the java god! thank you so much, mate!
+## Especial thanks to Prof. Nelio Alves, the java God! thank you so much, mate!
 
 ### I just tried to apply all my java knowledge so far! Enjoy the game! :D
 
