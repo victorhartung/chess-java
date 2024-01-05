@@ -17,6 +17,7 @@ public class ChessMatch {
     private boolean checkMate;
     private Color currentPlayer;
     private ChessPiece enpassantVulnerable;
+
     private List<Piece> piecesOnTheBoard = new ArrayList<>();
     private List<Piece> capturedPieces = new ArrayList<>();
 
